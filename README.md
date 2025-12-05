@@ -11,7 +11,7 @@ A professional-grade Air Quality Index (AQI) monitoring system that provides rea
 - **Auto-refresh**: Updates data every 15 seconds
 - **Historical Data**: 24-hour AQI trend visualization
 - **Fallback Mechanisms**: Graceful handling of location errors and missing data
-- **Caching**: Efficient caching to reduce API calls and improve performance
+- **Caching**: Efficient caching to reduce API calls and improve performance.
 
 ## Technology Stack
 
@@ -29,3 +29,4 @@ A professional-grade Air Quality Index (AQI) monitoring system that provides rea
 - Error handling and fallback logic
 
 ## Project Structure
+
